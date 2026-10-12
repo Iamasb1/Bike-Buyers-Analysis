@@ -56,3 +56,8 @@ The dataset contains customer information, including:
 ## Key Learning Outcomes
 
 This project provided practical experience in preparing data, using Excel formulas, analysing customer information with pivot tables, and presenting results through visualisations.
+
+
+## Dashboard Preview
+
+![Bike Buyers Dashboard](bike-buyers-dashboard.png)
