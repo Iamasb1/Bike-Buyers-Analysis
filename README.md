@@ -60,4 +60,4 @@ This project provided practical experience in preparing data, using Excel formul
 
 ## Dashboard Preview
 
-![Bike Buyers Dashboard](bike-buyers-dashboard.png)
+![Dashboard](Dashboard.png)
