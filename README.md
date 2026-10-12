@@ -15,7 +15,7 @@ The goal is to examine customer characteristics and identify patterns that may h
 * Data cleaning and preparation
 * Data standardisation
 * Excel formulas and conditional logic
-* Age group categorisation
+* Age-group categorisation
 * Pivot table analysis
 * Data visualisation and dashboard development
 
@@ -48,9 +48,11 @@ The dataset contains customer information, including:
 * Bicycle purchase status
 
 ## Project Files
-`Excel Project Dataset.xlsx`  Excel workbook containing the dataset, data preparation, pivot table analysis, and dashboard.
+
+| File                         | Description                                                                                   |
+| ---------------------------- | --------------------------------------------------------------------------------------------- |
+| `Excel Project Dataset.xlsx` | Excel workbook containing the dataset, data preparation, pivot table analysis, and dashboard. |
 
 ## Key Learning Outcomes
 
 This project provided practical experience in preparing data, using Excel formulas, analysing customer information with pivot tables, and presenting results through visualisations.
-
